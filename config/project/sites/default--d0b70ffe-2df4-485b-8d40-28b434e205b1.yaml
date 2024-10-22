@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'Visionlearning Docs'
+primary: true
+siteGroup: 0bdaffe4-865c-4d6c-8548-c8b5c979bca4 # Visionlearning Docs
+sortOrder: 1

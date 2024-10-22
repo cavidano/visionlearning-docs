@@ -1,0 +1,22 @@
+dateModified: 1729613882
+email:
+  fromEmail: carl@avidanodigital.com
+  fromName: 'Visionlearning Docs'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0bdaffe4-865c-4d6c-8548-c8b5c979bca4: 'Visionlearning Docs' # Visionlearning Docs
+    d0b70ffe-2df4-485b-8d40-28b434e205b1: 'Visionlearning Docs' # Visionlearning Docs
+system:
+  edition: solo
+  live: true
+  name: 'Visionlearning Docs'
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
